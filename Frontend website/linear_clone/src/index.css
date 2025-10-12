@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+  --bg-color:#191919;
+  --surface-color:#222222;
+  --primary-text:#F5F5F5;
+  --secondary-text:#A9A9A9;
+  --border-color:#2A2A2A;
+  --accent-color:#E9A93F;
+  --mask-visible: rgba(233, 169, 63, 1);  
+  --mask-invisible: rgba(233, 169, 63, 0);
+}
